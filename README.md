@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# CreditCardHanoiHaskell
-=======
-# CreditCardNumbers
->>>>>>> Initial commit -- magit test
+Workflow with Magit
